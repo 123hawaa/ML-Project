@@ -1,0 +1,8 @@
+Model Highlight: Leveraging the power of Logistic Regression, our system has achieved an impressive accuracy of 93%! 🎉
+📌 Key Steps:
+
+Dataset Collection: Gathered a diverse dataset of labeled examples.
+Data Preprocessing: Cleaned and transformed the data for effective analysis.
+Feature Extraction: Converted text data into numerical features using TF-IDF.
+Logistic Regression Model: Implemented and trained the model for accurate predictions.
+Evaluation: Achieved a robust accuracy of 93%, demonstrating the model's effectiveness.
